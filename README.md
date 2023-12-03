@@ -19,5 +19,5 @@ We imported various libraries that we required for the program such as LabelEnco
 8.)Pandas and NumPy: For data manipulation and numerical calculations.
 9.)Matplotlib and Seaborn: For data visualization and for our exploratory data analysis
 
-Our application is deployed on a streamlit local host. The application can be viewed via this link; http://localhost:8501/ 
+Our application is deployed on a streamlit local host.
 This is the youtube video link; https://youtu.be/ih-lLGLQzcw
